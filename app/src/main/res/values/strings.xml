@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Regitro App</string>
+    <string name="titlulo_pickers">Obtener fecha y hora</string>
+    <string name="formato_fecha">dd/mm/yyyy</string>
+    <string name="formato_hora">hh:mm</string>
+    <string name="Bnext">CONTINUAR</string>
+    <string name="TNombre">Nombre Completo: </string>
+    <string name="TTelefono">Numero de Telefono: </string>
+    <string name="TEmail">Email: </string>
+    <string name="TFecha">Fecha de nacimiento:</string>
+    <string name="TDetalles">Detalles: </string>
+    <string name="Bteditardetalles">Editar detalles</string>
+    <string name="BtBorrar">Borrar todo</string>
+    <string name="BtBorrar2">Borrar</string>
+    <string name="textodetalles">Confirmacion de Datos</string>
+</resources>
